@@ -1,3 +1,2 @@
-![Web5ecure](https://raw.githubusercontent.com/danito-net/Web5ecure/main/static/images/Web5ecure-black-320px.png)
-
+![Web5ecure](https://github.com/danito-net/Web5ecure/blob/main/static/images/Web5ecure-white-and-red-on-black-50x320.png)
 Web5ecure = Web5 + secure
